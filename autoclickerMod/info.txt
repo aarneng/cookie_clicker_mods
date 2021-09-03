@@ -1,0 +1,11 @@
+{
+	"Name": "Autoclicker Mod",
+	"ID": "Autoclicker Mod",
+	"Author": "Aarnens",
+	"Description": "Wow! it clicks the cookie for u :)",
+	"ModVersion": 1,
+	"GameVersion": 2.04,
+	"Date": "02/09/2021",
+	"Dependencies": [],
+	"Disabled": 0
+}
